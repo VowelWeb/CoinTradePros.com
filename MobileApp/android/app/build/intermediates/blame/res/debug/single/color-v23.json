@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

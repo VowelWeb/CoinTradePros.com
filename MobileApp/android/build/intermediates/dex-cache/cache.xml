@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.46.1_8b46f5825fad51eb3a18826ff7f2c18503a1d9dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_ad4a0308dc902665f6bab78df8f607a5b4f69c18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_5ab83dea7ebe7895b07d44d1d8b67640d3a39d54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_afa49b369fb899d102bad61cf1e0ff63dd0e9265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_75ea09c6254a226d6612b4caab40c0d6a647afe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_1f71495ac981a1f6de98c24089a33d970d136943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.1_bb1d46f77fd242954819b028eeb86c6109f816ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/CoinTradePros/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7c1c0f0c9d656f342a361186d90474967ba41a0a">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/CoinTradePros-react-native-image-picker-unspecified_bc8b85b552ecb24e1fa4acc1ade2e27f1465a1b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_052d4f924eea05403ce3dd2f1debf7036199661f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_a0a5e2fadd4e510e64448190316920010fd50696.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/CoinTradePros/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a22040eb91369982a5b73655ab8f07a2744d530">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/CoinTradePros-react-native-video-unspecified_9908445585233d4934860dded470b1ca0cf1f98f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_eb099c4d32e003966e41d401d40eff4b0d734fbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/CoinTradePros/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a22040eb91369982a5b73655ab8f07a2744d530">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/CoinTradePros-react-native-video-unspecified_3814faf450c8c03e7ac1c6abfaff79af93fc7ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_30acdc4e2c410d01abb2d554a41a9f550ab9b97a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_0d7ee73f1aa56068958aad9acb7770acf3dc4377.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/CoinTradePros/react-native-shared-preferences/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25589d37ad69aacd37afb9bab4a328ee107015ca">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/CoinTradePros-react-native-shared-preferences-unspecified_45f98fb415c4e75101c4faa31e8186b67a00c023.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_31ed838056f2fb87795939cad574578229046f27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/CoinTradePros/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7c1c0f0c9d656f342a361186d90474967ba41a0a">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/CoinTradePros-react-native-image-picker-unspecified_4fb079deaee282a8903abbbde03e9e7047f6963d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_336623c526dab7d12820528bdc7bbdeeab695507.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_b5d8cb553636ef448225e804786b2dbd15bd1afb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_da4be499af72b91083b92e2ec0e302634fcaa7af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_71a1455fd1ba748b70e657bad88317976cbd5cfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/CoinTradePros/react-native-shared-preferences/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25589d37ad69aacd37afb9bab4a328ee107015ca">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/CoinTradePros-react-native-shared-preferences-unspecified_45b2a1ffcf9c15bf191f156a6be40c02c39fc2c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/CoinTradePros/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1bbdb3781b520448b570f6a85b579be4df20a29a">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/CoinTradePros-react-native-vector-icons-unspecified_a1fe17d0a59d52adb7e417d02488bfcbf0786923.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_cbfb47406db2b6204d7f6cc0d04c483a98af72aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_c2b14e123c02378410965baf90adff60e0fc3955.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f76fc41bcc99ac7e8485cd9b10cfcebd017d576b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_571fba05ee401cd821b8acf82f8f55b85ceec726.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_6ea0a8ca49a375a19838053ea42253c84c372814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_d59b73fe3fe719c2a7016d455b0db022592af00c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_5aa2ed7d73c7eedb02e93776730c8600edf2c75f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_4e2f60f345c2385f9714a0713521a0466e7c945d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.1_58642404d5b85fc2e4fa4e81816acffccc082aba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_a6bb43866c5bb076ab52b19c1a448b8cd7fa5adb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.46.1_3979037c40e31cd9d78c695f97bf83f78d081fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_e19368219a8ef16c22a666bc3395f4aee031e093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_f1c23ded675abfbd4f01114e8982d8aa196fda18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_b03124588201ade2f9e67b1136f0912d2a7efec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.yqritc/android-scalablevideoview/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c97dc8446f6a46da5620f40b3737e162d53c40c2">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.yqritc-android-scalablevideoview-1.0.1_3cd9826733e1fa54e82192f8b6ca47c4e2073db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_f4fb2e350dcb1bde48fa90b0334b4e6fd971a68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_4018ad1e3fcfce0cafbd490900c1126ac8f5f5c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/CoinTradePros/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1bbdb3781b520448b570f6a85b579be4df20a29a">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/CoinTradePros-react-native-vector-icons-unspecified_020daccf8fa9512fe522acc62999456a95dcb212.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_eda2d10440cf5969950593f0c0fe754279851d30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ce7cd6801447feec4781c0b1a3902aca195369fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_f023b772d7787a207950e353e38b8b6538cae398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.46.1_e4550289ee2a7d675fdd06d4a5160ea36afd38d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_68395a1a298382919fdccfd8575b5ff1fed92103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/CoinTradePros/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7c1c0f0c9d656f342a361186d90474967ba41a0a">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/CoinTradePros-react-native-image-picker-unspecified_f88d8b18456d7f96a737d4c974c82b44fe06b52f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/CoinTradePros/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1bbdb3781b520448b570f6a85b579be4df20a29a">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/CoinTradePros-react-native-vector-icons-unspecified_7df8a260b1ecd307b6d7f8e65e7ff3591de2fe85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_dbc5744cf8bde73e720b7a1891b37a2ba8356cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_93f3e31cf64b745f10ea985627a654f51f370e5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_ed8e1473c569c040170ca11635c0f139c755a784.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_dfe5cb73968afad06d2e92b17259a1b1f31f093c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_5883bd5232fd705d8b46ee90943b7b34ac24b292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_69a0338835a0568c8bdd2d8fb8dcac450918bdba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_20646806f4548a599a6bd6a500c2ddcf9cd7227c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_6c156ac06d3bb59d2503a640668d728a2f2c879f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_80c57c115178ec69f84e9c3a316321df80c89557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_1093f383adb2ff26ed3ce7d0094a073365ad7db8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_5649c57aa96ff01516d8fbde9121d55642c4eb1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/CoinTradePros/react-native-video/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a22040eb91369982a5b73655ab8f07a2744d530">
+        <dex dex="/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/pre-dexed/debug/CoinTradePros-react-native-video-unspecified_bf1a10132e7794397dda109feaf132fa095c3926.jar" />
+    </item>
+
+</items>

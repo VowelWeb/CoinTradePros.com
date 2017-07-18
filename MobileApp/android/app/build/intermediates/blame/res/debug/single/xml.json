@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.1/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/vowelweb-007/Dimensions/CoinTradePros/android/app/build/intermediates/exploded-aar/CoinTradePros/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.1/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/vowelweb-007/CoinTradePros/android/app/build/intermediates/exploded-aar/CoinTradePros/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.1/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/home/vowelweb-007/Backup/15-07-2017/CoinTradePros/android/app/build/intermediates/exploded-aar/CoinTradePros/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    }
+]
